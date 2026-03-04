@@ -19,3 +19,5 @@ Welcome to the end of the world. The ice is creeping, and the only hope for surv
 - **[[The_Forge-Spires\|The_Forge-Spires]]:** The stationary bastion of heat.
     
 - **[[Key_Characters\|Key_Characters]]:** People you’ve met, including Elara the Mute.
+  
+  
