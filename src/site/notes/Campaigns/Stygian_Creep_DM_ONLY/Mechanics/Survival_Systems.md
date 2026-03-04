@@ -18,3 +18,5 @@ Consumption: 1 fuel per 8 hours of rest.
 Recharging: Can be refilled with Soul_Coal found in the world.
 Main method of curing Stygian_Frostbite
 
+DM NOTE: The True Purpose of Heat
+Heat doesn't just keep them alive; it keeps the influence of Prince Levistus at bay. If the lantern stays out for more than 24 hours, the Axolotl starts receiving "Whispers" and the other players start feeling the "Blue-Vein Curse."
