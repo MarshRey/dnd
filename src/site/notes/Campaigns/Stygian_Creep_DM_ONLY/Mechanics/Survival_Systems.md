@@ -3,7 +3,6 @@
 ---
 
 
-# Survival System
 
 In the Stygian Tundra, the environment is as much of an enemy as any monster. 
 

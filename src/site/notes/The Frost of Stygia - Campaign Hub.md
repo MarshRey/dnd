@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-frost-of-stygia-campaign-hub/","tags":["gardenEntry"]}
 ---
 
-# The Frost of Stygia - Campaign Hub
 
 Welcome to the end of the world. The ice is creeping, and the only hope for survival is to keep moving south.
 
