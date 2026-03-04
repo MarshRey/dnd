@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/aetheria/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/aetheria/"}
 ---
 
 
