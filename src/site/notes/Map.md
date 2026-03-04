@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/map/"}
 ---
 
-![StgianFrostMap.png](/img/user/StgianFrostMap.png)
+![StygianFrostMap.png](/img/user/Campaigns/Stygian_Creep/Atlas/StygianFrostMap.png)
