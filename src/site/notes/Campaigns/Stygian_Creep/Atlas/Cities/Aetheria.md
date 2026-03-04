@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/aetheria/"}
+{"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/aetheria/","tags":["gardenEntry"]}
 ---
 
 
 
-**The Cloud-Drifter Collective**
+[[The Cloud-Drifter Collective\|The Cloud-Drifter Collective]]
 
 ### Overview
 
@@ -12,7 +12,7 @@ Aetheria is a cluster of elegant, gold-leafed villas and towers suspended by hun
 
 ### The Engine
 
-The city uses [[Arcane_Envelopes\|Arcane_Envelopes]] magical balloons filled with a lighter-than-air gas harvested from the "Gas-Giants," massive floating creatures that inhabit the upper atmosphere.
+The city uses [[Campaigns/Stygian_Creep/Campaign Hub/Items/Arcane_Envelopes\|Arcane_Envelopes]] magical balloons filled with a lighter-than-air gas harvested from the "Gas-Giants," massive floating creatures that inhabit the upper atmosphere.
 
 ### What You Have Heard
 

@@ -3,7 +3,7 @@
 ---
 
 
-**The Union of the Iron-Skates**
+The Union of the [[Iron-Skates\|Iron-Skates]]
 
 ### Overview
 

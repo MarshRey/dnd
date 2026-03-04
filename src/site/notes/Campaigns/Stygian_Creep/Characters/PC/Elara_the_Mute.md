@@ -4,7 +4,7 @@
 
 ### Overview
 
-Elara is a survivor of the [[Campaigns/Stygian_Creep/Factions/Cinder-Trail_Caravan\|Cinder-Trail_Caravan]] wreckage and a Cleric of the Hearth. She is a woman in her late twenties with silver-streaked hair and eyes the color of dying embers. She wears heavy, soot-stained vestments over a suit of battered chainmail. She is currently afflicted by the [[Blue-Vein_Curse\|Blue-Vein_Curse]] curse, which has left her completely unable to speak.
+Elara is a survivor of the [[Campaigns/Stygian_Creep/Factions/Cinder-Trail_Caravan\|Cinder-Trail_Caravan]] wreckage and a Cleric of the Hearth. She is a woman in her late twenties with silver-streaked hair and eyes the color of dying embers. She wears heavy, soot-stained vestments over a suit of battered chainmail. She is currently afflicted by the [[Mechanics/Blue-Vein_Curse\|Blue-Vein_Curse]] curse, which has left her completely unable to speak.
 
 ### Personality and Role
 

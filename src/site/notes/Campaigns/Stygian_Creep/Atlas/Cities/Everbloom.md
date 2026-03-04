@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/everbloom/"}
 ---
 
-**The City of the Verdant Shells**
+The City of the [[Verdant Shells\|Verdant Shells]]
 
 ###  Overview
 
@@ -21,7 +21,7 @@ The city is currently moving at a pace of roughly 10 miles per day. It follows t
 
 - **The Tithe of Growth:** It is said that to enter Everbloom, one must bring a "Life-Gift"—a rare seed, a bag of fertile soil, or a pint of blood to nourish the Great Trees.
     
-- **The Hunger:** Rumor has it the tortoises are slowing down. Some say the [[Magical_Fodder\|Magical_Fodder]] required to keep them awake is running low, and the druids are becoming desperate.
+- **The Hunger:** Rumor has it the tortoises are slowing down. Some say the [[Campaigns/Stygian_Creep/Campaign Hub/Items/Magical_Fodder\|Magical_Fodder]] required to keep them awake is running low, and the druids are becoming desperate.
     
 - **The Living Streets:** The "streets" are actually massive vines and branches that shift and move. Visitors are warned: if you stay still for too long, the city might start growing over you.
     
