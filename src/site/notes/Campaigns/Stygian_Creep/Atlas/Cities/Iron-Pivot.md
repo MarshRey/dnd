@@ -3,7 +3,7 @@
 ---
 
 
-The Union of the [[Iron-Skates\|Iron-Skates]]
+The Union of the [[Campaigns/Stygian_Creep/Factions/Iron-Skates\|Iron-Skates]]
 
 ### Overview
 
@@ -11,7 +11,7 @@ Iron-Pivot is a declaration of war against the cold. It is a massive, tiered ind
 
 ### The Engine
 
-The city is pulled by a "Chain-Gang" of [[Enslaved_Frost_Giants\|Enslaved_Frost_Giants]], bound by glowing runic collars. Behind the giants, massive steam-engines vent black soot into the white sky, providing the friction-heat necessary to keep the skates from freezing to the ground.
+The city is pulled by a "Chain-Gang" of [[Campaigns/Stygian_Creep/Campaign Hub/Lore/Enslaved_Frost_Giants\|Enslaved_Frost_Giants]], bound by glowing runic collars. Behind the giants, massive steam-engines vent black soot into the white sky, providing the friction-heat necessary to keep the skates from freezing to the ground.
 
 ### What You Have Heard
 

@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/campaigns/stygian-creep/atlas/cities/everbloom/"}
 ---
 
-The City of the [[Verdant Shells\|Verdant Shells]]
+The City of the [[Campaigns/Stygian_Creep/Factions/Verdant Shells\|Verdant Shells]]
 
 ###  Overview
 
-In a world turning white and brittle, **Everbloom** is a miracle of green. It is a slow-moving metropolitan forest composed of several dozen massive towers grown—not built—onto the backs of [[Giant_Ancient_Tortoises\|Giant_Ancient_Tortoises]]. It is the primary bastion for those who believe that nature, not industry, is the key to surviving the cold.
+In a world turning white and brittle, **Everbloom** is a miracle of green. It is a slow-moving metropolitan forest composed of several dozen massive towers grown—not built—onto the backs of [[Campaigns/Stygian_Creep/Campaign Hub/Lore/Giant_Ancient_Tortoises\|Giant_Ancient_Tortoises]]. It is the primary bastion for those who believe that nature, not industry, is the key to surviving the cold.
 
 ###  The Great Migration
 
 The city is currently moving at a pace of roughly 10 miles per day. It follows the ancient "Ley-Lines of the South," seeking soil that hasn't been touched by the frost.
 
-- **The Engine:** The [[Giant_Ancient_Tortoises\|Giant_Ancient_Tortoises]] are sentient, ancient beings. They do not work for the city; they _are_ the city.
+- **The Engine:** The [[Campaigns/Stygian_Creep/Campaign Hub/Lore/Giant_Ancient_Tortoises\|Giant_Ancient_Tortoises]] are sentient, ancient beings. They do not work for the city; they _are_ the city.
     
 - **The Canopy:** A permanent mist hangs over the city, created by the tortoises' breath and magical filtration, keeping the temperature inside the city a humid 70°F even in the dead of the Tundra.
     

@@ -4,7 +4,7 @@
 
 
 
-[[The Cloud-Drifter Collective\|The Cloud-Drifter Collective]]
+[[Campaigns/Stygian_Creep/Factions/The Cloud-Drifter Collective\|The Cloud-Drifter Collective]]
 
 ### Overview
 
