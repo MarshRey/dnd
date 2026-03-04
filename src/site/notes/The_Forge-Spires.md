@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-forge-spires/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/the-forge-spires/"}
 ---
 
 

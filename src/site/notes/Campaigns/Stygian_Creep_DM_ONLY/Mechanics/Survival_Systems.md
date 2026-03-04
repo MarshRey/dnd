@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/stygian-creep-dm-only/mechanics/survival-systems/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/campaigns/stygian-creep-dm-only/mechanics/survival-systems/"}
 ---
 
 
