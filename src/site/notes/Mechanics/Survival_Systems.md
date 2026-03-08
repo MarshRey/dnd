@@ -10,6 +10,7 @@ The Supply Die
 Starting Die: d12
 When to Roll: After Long Rests or forced marches. 
 Degradation: On a 1 or 2, the die drops a tier (d12 > d10 > d8 > d6 > d4).
+Buy supplies in towns to increase die level
 
 The Hearth-Lantern
 Your primary source of heat.
