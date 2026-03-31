@@ -10,4 +10,6 @@ Elara the Cleric is holding the [[Mechanics/Hearth-Lantern\|Hearth-Lantern]] in 
 
 **The Objective:** Reach [[Campaigns/Stygian_Creep/Atlas/Cities/The_Forge-Spires\|The_Forge-Spires]] before the [[Mechanics/Hearth-Lantern\|Hearth-Lantern]] runs out of fuel or the [[Mechanics/Stygian_Frostbite\|Stygian_Frostbite]] takes hold.
 
+
+
 ---
